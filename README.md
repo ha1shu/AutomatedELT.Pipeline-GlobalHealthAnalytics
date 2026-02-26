@@ -14,7 +14,7 @@ This project demonstrates how to build an **ELT (Extract, Load, Transform)** dat
 
 ## Architecture
 
-<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/8ccf01d5-14bf-4a9e-a8a6-c60e0aea9267" />
+<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/3cd0e8f9-aed3-4460-82b3-3f652b250d7a" />
 
 
 ### Workflow
