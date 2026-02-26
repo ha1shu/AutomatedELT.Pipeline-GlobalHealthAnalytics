@@ -14,7 +14,7 @@ This project demonstrates how to build an **ELT (Extract, Load, Transform)** dat
 
 ## Architecture
 
-<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/3cd0e8f9-aed3-4460-82b3-3f652b250d7a" />
+<img width="1536" height="1024" alt="ChatGPT Image Feb 26, 2026, 03_38_42 PM" src="https://github.com/user-attachments/assets/89698935-b22f-433b-957e-9651ac7f7773" />
 
 
 ### Workflow
