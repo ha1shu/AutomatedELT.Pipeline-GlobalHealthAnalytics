@@ -2,13 +2,6 @@
 
 This project demonstrates how to build an **ELT (Extract, Load, Transform)** data pipeline to process **1 million records** using **Google Cloud Platform (GCP)** and **Apache Airflow**. The pipeline extracts data from Google Cloud Storage (GCS), loads it into BigQuery, and transforms it to create country-specific tables and views for analysis.
 
-Video Tutorial  
-Part 1:   [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/pilPHlOVjII)
-Part 2:   [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/rIUWbSXjKe4)
-
-
----
-
 ## Features
 
 - Extract data from GCS in CSV format.
@@ -48,17 +41,6 @@ Part 2:   [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://y
 - **Apache Airflow**:
   - Airflow with Google Cloud providers
 
-
----
-
-## Setup Instructions
-
-### Prerequisites
-1. A Google Cloud project with:
-   - BigQuery and Cloud Storage enabled.
-   - Service account with required permissions.
-2. Apache Airflow installed.
-3. Use Blog for Airflow Installation on VM - https://www.techtrapture.com/blogs/673a2625dd155b000b7cdb3b
 
 ## End Result
 
